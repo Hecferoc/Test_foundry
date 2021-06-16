@@ -1,0 +1,142 @@
+{
+  "name": "eoroe",
+  "title": "Eoroe",
+  "description": "<p>Eroe se ha dividido el continente ahora son islas pero estas ya han dejado de mover, después de 250 años. La leyenda de los Aston Terias es conocida por gran parte de la población. Pero su historia ha acabado... por ahora.</p>\n<p>Nos encontramos en una nueva era, una era donde la paz no esta garantizada y varios reinos ya no ven la necesidad de mantener la frágil tregua que existía. Nuestra historia empieza aquí con un grupo de personas que  tal vez no sepan lo importante que son.  </p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-eoroe-spells",
+      "package": "world",
+      "path": "packs/ddb-eoroe-spells.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-spells.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-eoroe-items",
+      "package": "world",
+      "path": "packs/ddb-eoroe-items.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-items.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-eoroe-class-features",
+      "package": "world",
+      "path": "packs/ddb-eoroe-class-features.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-class-features.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-eoroe-classes",
+      "package": "world",
+      "path": "packs/ddb-eoroe-classes.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-classes.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-eoroe-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-eoroe-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-racial-traits.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-eoroe-feats",
+      "package": "world",
+      "path": "packs/ddb-eoroe-feats.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-feats.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-eoroe-races",
+      "package": "world",
+      "path": "packs/ddb-eoroe-races.db",
+      "system": "dnd5e",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/ddb-eoroe-races.db",
+      "private": false
+    },
+    {
+      "label": "Test items",
+      "entity": "Item",
+      "name": "test-items",
+      "path": "packs/test-items.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/test-items.db",
+      "private": false
+    },
+    {
+      "entity": "Scene",
+      "label": "Radugen",
+      "name": "radugen",
+      "path": "packs/radugen.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/home/ec2-user/foundrydata/Data/worlds/eoroe/packs/radugen.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-eoroe-override",
+      "package": "world",
+      "path": "packs/ddb-eoroe-override.db",
+      "system": "dnd5e",
+      "private": false
+    },
+    {
+      "label": "DDB Monster",
+      "entity": "Actor",
+      "name": "ddb-monster",
+      "path": "packs/ddb-monster.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-eoroe-monsters",
+      "package": "world",
+      "path": "packs/ddb-eoroe-monsters.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/eoroe/Logo%20BL%202.0.jpg",
+  "coreVersion": "0.8.6",
+  "nextSession": "2021-03-11T01:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
